@@ -1,4 +1,4 @@
-# CodeAlpha_Task
+# Image Recognition using CIFAR10 Dataset
 This project aims to develop a robust image recognition system capable of accurately identifying objects within images. Our goal is to harness the power of machine learning 
 and computer vision to create an intelligent model that can recognize and classify various objects with high precision.
 
